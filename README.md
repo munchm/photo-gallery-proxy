@@ -1,1 +1,1 @@
-# people-also-viewed-proxy
+# photo-gallery-proxy
